@@ -1,25 +1,27 @@
-# Virtual Event Playbook 
+# 在线活动攻略 
 
-This Virtual Event Playbook was created to help individuals when planning virtual events and experiences with a developer focused audience, however, it can be replicated and used for any audience.  
+创建这个在线活动攻略是为了帮助个人规划面向开发者的在线活动，然而它可以被复制并用于任何类型的参与者。
 
-## Transitioning to Digital Events 
-As the organizers and contributors to impactful events and experiences, we must take a collaborative approach to address the shift to more virtual and online experiences due to COVID-19 and the desire to globally scale. The virtual event experience can be enhanced through scalable content, inclusion and accessibility, process and strategy alignment, branding, and demand generation. 
+## 转向在线活动
+作为有影响力的活动组织者和贡献者，我们必须共同协作来应对COVID-19导致的向在线体验的转变，以及实现全球规模化的愿望。在线活动可以通过可伸缩的内容、包容性和可访问性、流程和策略的一致性、品牌塑造和推广招募来增强。
 
-**Please note that all events are not one-size-fits-all. Elements may require slight modification based on the audience, content, and desired outcome from the event. This playbook represents a set of strategies that have been found successful.**
+**请注意，并非所有活动都是适用于所有人的。要素可能需要根据受众、内容和事件的期望结果进行轻微修改。本攻略代表了一套已经成功验证过的策略。**
 
-## Key Digital Event Elements 
-**Diveristy & Inclusion**: An inclusive conference experience must begin with an inclusive and diverse conference planning process. This is an opportunity to encourage various perspectives, amplify voices, increase innovation, and produce more results in an event experience.
+## 在线活动的关键要素 
+**多元化和包容性**：包容性的活动体验必须从包容性和多元化的策划过程开始。这是一个机会，鼓励不同的观点，扩大发声，增加创新，并在一个活动中产生更多的结果。
 
-**Core Content**: Content used to inform, inspire and educate the audience. These are video-focused experiences like keynotes and sessions with simple interactive moments like polling and chat. 
+**核心内容**：用于告知、激励和教育受众的内容。这些都是以视频为中心的体验，比如主题演讲，还有简单的互动环节，比如投票和聊天。
 
-**Intermittent/Interstitial Programming**: Scheduled portions of the event experience to add energy and fun to the experience. Programming may include interviews, performances, wellness, philanthropy, quizzes, and games. 
+**间歇式节目**：活动体验的预留部分，为体验增加活力和乐趣。节目可能包括采访、表演、健康、慈善、测验和游戏。
 
-**Interactive Breakouts**: Sessions that deliver core content in an interactive setting. Includes audience engagement and participation, typically moderated, and may include product feedback focus groups, expert connections, and personalized consultation.  
+**交互式互动**：以交互的方式进行核心内容的演讲。包括通常有主持人和受众参与，并可能包括产品反馈焦点小组，专家联系和个性化咨询。
 
-**Meetups/Community Building**: "Connection” is the main priority when organizing a digital experience to support networking, relationship building, and long-lasting outcomes from each event experience. This is more audience and attendee led to facilitate natural collaboration and trust. 
+**聚会/社区建设**：在组织数字化在线活动时，“联系”是最重要的优先事项，以支持社交、建立关系，以及从每次活动中获得长期结果。这更多的是由观众和与会者引导，以促进自然协作和信任。
 
-## Virtual Event Standards and Requirements 
+## 在线活动的标准要求 
 **Event Registration**: An inclusive, accessible, and informative registration process to communicate the desired audience, content, and event logistics is key in generating attendance and low attrition.  
+
+**活动注册**：一个包容的、可访问的和信息丰富的注册流程，以沟通所需的受众、内容和活动的后勤是产生出席率和降低损耗的关键。
 
 Popular and widely used examples include: 
 * [Meetup](https://www.meetup.com): Offer workshops, presentations, and networking events over Meetup. Meetup has a very large, active community of users that can be leveraged to grow demand for your event. 
@@ -105,7 +107,7 @@ Popular and widely used examples include:
 
 **Event Evaluations & Activity Reports**: To ensure we evolve and continue to iterate on tooling, content, and processes, we must continue to evaluate each digital experience, openly share learnings, and achieve the reporting. The evaluation process and specific data points considered will shift based on learnings and a changing environment. 
 
-## Platform Guidance
+## 平台指南
 
 Research shows that attention span in a digital environment lasts 2 – 3 hours. Therefore, the content 1) must be recorded for future consumption, 2) offer live moderators to facilitate a personal experience and real-time answers, and 3) incorporate breaks and engagement throughout, for example yoga and polling during a session. Organizers should strive to provide the similar perks of a live experience (reference Key Digital Event Elements section), while recognizing that live interaction cannot be fully replicated.  
 
@@ -140,7 +142,7 @@ Resources:
 
 * [Microsoft Teams Meetings](https://docs.microsoft.com/en-us/microsoftteams/tutorial-meetings-in-teams)
 
-## Additional Platforms & Steps
+## 额外的平台和步骤
 
 **Step 1: Conference Schedule Building** 
 
@@ -169,7 +171,7 @@ Resources:
 **Step 5: Community Engagement & Chat**
 
  * [Discord](https://discord.com/new): Preferred for chat experience and watercooler. Similar user interface to Slack and a great addition to other platforms when looking to create community experiences within text and video communication. Not the best for mobile users due to bandwidth.  
- 
+
 **Additional Platforms:**
 
 * [Zoom](https://restream.io/blog/how-to-multistream-with-zoom/#zoom-basic-account) - Widely recognized platform for community driven experiences – live chat, video and audio attendee use, and known for reliability. Lots of versatility for meetings, webinars, and conferences/breakouts, however, the capacity if 1,000 video participants and 10,000 viewers.  
@@ -180,7 +182,7 @@ Resources:
 * [Hopin.To](https://hopin.to/): Various ways to connect including stages, one-on-ones, sessions, and expos. Provides the solution of not needing to use multiple platforms, since it provides everything to host a full event experience in a digital landscape. Appears to be one of the best platforms when trying to replicate a live experience when reviewing their “watercooler” offerings and expo booths.  
 * [AltspaceVR](https://altvr.com/): Virtual reality experience to host live events and connect with members of the community. Operates both with and without a headset. Owned by Microsoft and part of the Windows Mixed Reality experience and unique offering to audience members to have an avatar, attend events, and meet community members all around the globe. 
 
-## Additional Non-Microsoft Resources
+## 其他非微软的资源
 
 * 3P article on using Teams for virtual labs and hackathons [(link)](https://www.robertjgates.com/use-microsoft-teams-to-run-a-virtual-lab-or-virtual-hackathon-event/)
 * Meetup.com blog on hosting online events [(link)](https://www.meetup.com/blog/how-to-host-an-online-event-on-meetup/)
