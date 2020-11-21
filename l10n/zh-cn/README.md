@@ -1,30 +1,30 @@
-# Virtual Events
+# 在线活动
 
-As organizers and contributors of some of the technology industry's most impactful events and community experiences, we need to ensure we take a collaborative approach to address the shift to more virtual and online experiences due to COVID-19. This repository is to help us all easily and effectively produce online experiences that do not necessarily *replace* in-person events, but allow us to still continue learning, networking, and collaborating together. 
-  
-## Usage
+作为科技行业里一些最具影响力的活动和社区体验的组织者和贡献者，我们需要共同协作来应对COVID-19导致的向虚拟和在线的转变。这个资源库将帮助我们所有人轻松有效地打造在线体验，这些体验并不一定“取代”线下面对面的活动，但能让我们继续学习、社交联系，以及相互协作。
 
-Utilize this repository to reference the [Virtual Event Playbook](./playbook.md) to help transition typically in-person held events to virtually held events, produce new online experiences, receive guidance on various online event platforms, and learn best practices. A [Code of Conduct](./virtual-event-code-of-conduct.md) is included, since a Code of Conduct should be published for any in-person or virtual experience, no matter the audience or subject matter.
+## 如何使用
 
-## Why
+参考本资源库里的[在线活动攻略](./playbook.md)，可以帮助将传统的线下面对面活动转换为在线虚拟活动，打造全新的在线体验，获得各种在线活动平台的指南，并学习最佳实践。其中包括[行为准则](./CODE_OF_CONDUCT.md)，无论活动的受众或主题是什么，行为准则面向任何线下或在线活动发布。
 
-COVID-19 specifically has caused an enormous amount of disruption in our daily lives and the way we network, educate, and communicate with one another. As a community, we must be able to effectively produce experiences in these strictly online and physically-distant circumstances, while also obtaining best practices for online experiences during and post COVID-19. When executed effectively, online events provide a large amount of benefits that in-person sometimes cannot like inclusivity, accessibility, and convenience. Our hope is that these learnings can be gathered for better forms of communication and potentially combined with in-person and online events in the future.
+## 为什么
 
-## What's Included
+COVID-19的确给我们的日常生活、社交、教育和沟通带来了巨大的干扰。作为一个社区，我们必须能够有效地在这严格在线和物理隔离的环境下打造活动体验，同时总结出COVID-19期间和之后的最佳实践。有效举办的在线活动提供了很多线下活动很难做到的好处，比如包容性、可访问性和便利性。我们希望这些经验可以被收集起来作为更好的交流形式，并结合将来的线下和在线活动。
+
+## 包含内容
 
 * [virtual-event-code-of-conduct.md](./virtual-event-code-of-conduct.md)
-  * A Code of Conduct specifies a baseline standard of behavior so that people with different social values and cultures can communicate effectively, productively, and respectfully. This is imperative at both in-person and virtual events. The Code of Conduct included within this repository can be used for online experiences to both protect and inform the audience of the standards of behavior the organizers require to participate.
+  * 行为准则规定了基本的行为标准，使具有不同社会价值观和文化的人能够有效地、高效地、相互尊重地交流。这在线下和线上活动中都是必要的。本资源库里的行为准则可以用于在线活动以保护和告知观众组织者要求的行为标准。
 * [playbook.md](./playbook.md)
-  * As the organizers and contributors of the technology industry’s most impactful events and community experiences, we need to take a collaborative approach to address the shift to more virtual and online experiences due to COVID-19. Utilize the playbook to review the different types of digital experiences, key digital event elements, virtual event standards and requirements, and additional resources and best practices. 
-* [inclusive-planning-process.md](https://github.com/microsoft/virtual-events/blob/main/inclusive-planning-process.md)
-  * Hosting an inclusive event requires inclusivity intentionally woven throughout the entire event process, especially from the beginning. Utilize this guide to ensure you have a diverse planning committee, inviting diverse speakers and participants, and constantly finding ways to evolve and improve.
-* [speaker-request-response.md](https://github.com/microsoft/virtual-events/blob/main/speaker-request-response.md)
-  * Virtual events are being organized faster and diversity and inclusion is receiving less prioritization. Included are tools for each speaker and requested participant to ensure diversity and inclusion standards are maintained. Utilize a drafted email and suggested steps that can be sent in response to speaking, sponsoring, and participating requests. 
+  * 作为科技行业里最具影响力的活动和社区体验的组织者和贡献者，我们需要共同协作来应对COVID-19导致的向虚拟和在线的转变。该攻略提供不同类型的数字化体验、数字化活动的关键元素、在线活动的标准和需求，以及额外的资源和最佳实践。
+* [inclusive-planning-process.md](./inclusive-planning-process.md)
+  * 举办包容性的活动需要有意地将包容性贯穿于整个活动过程，特别是最初阶段。利用该指南来确保你拥有一个多样化的计划委员会，邀请不同的讲师和参与者，并不断寻找发展和改进的方法。
+* [speaker-request-response.md](./speaker-request-response.md)
+  * 在线活动的组织速度越来越快，多样性和包容性受到的重视程度在降低。这里为每位讲师和邀请的参会者提供了工具，以确保保持多样性和包容性标准。利用电子邮件模板和建议的步骤来回应演讲、赞助和参与请求。
 
-## Contributing
+## 如何贡献
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+欢迎对本项目提供建议和贡献。大多数贡献需要您同意贡献者许可协议(CLA)，以声明您有实际权利授权我们使用您的贡献。详细信息请访问https://cla.opensource.microsoft.com。
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions provided by the bot. You will only need to do this once across all repos using our CLA.
+当您提交一个PR时，CLA机器人将自动决定您是否需要提供一个CLA并适当地修改PR（例如状态检查、评论）。只需按照机器人提供的说明进行操作即可。您只需要在所有资源库中执行一次该操作。
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+本项目采用了[微软开源行为准则](https://opensource.microsoft.com/codeofconduct/)。更多信息请参见[行为准则常见问题解答](https://opensource.microsoft.com/codeofconduct/faq/)或联系[opencode@microsoft.com](mailto:opencode@microsoft.com)。
