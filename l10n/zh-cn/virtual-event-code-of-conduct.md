@@ -1,49 +1,49 @@
-# Code of Conduct for Virtual Events
+# 在线活动行为准则
 
-## For Organizers
+## 组织者
 
-As event and experience organizers, we seek to provide a **respectful, friendly, professional experience for everyone, regardless of gender, sexual orientation, physical appearance, disability, age, race or religion**. We do not tolerate any behavior that is degrading to any gender, race, sexual orientation, or disability, or any behavior that would be deemed harassment or discrimination. Individuals are responsible for knowing and abiding by our standards and we encourage everyone to assist in creating a welcoming and safe environment. 
-Please report any concerns, suspicious or disruptive activity or behavior to the organizing team, so that we can address the issue immediately.
+作为活动和体验的组织者，我们力求为每个人提供**尊重、友好、专业的体验，无论性别、性取向、外貌、残疾、年龄、种族或宗教信仰**。我们不会容忍任何贬低性别、种族、性取向或残疾的行为，也不会容忍任何会被视为骚扰或歧视的行为。每个人有责任了解和遵守我们的标准，我们鼓励每个人帮助创造一个友好和安全的环境。
 
-## Our Values
+如有任何担忧、可疑或破坏性的活动或行为，请及时向组织汇报，以便我们及时处理。
 
-Throughout each interaction, we aspire to embody and champion the below values: 
+## 我们的价值观
 
-* Be friendly and welcoming
-  * Listen with purpose, create space for others’ communication preferences
-  * Ask yourself how you can make someone else’s life easier
-* Be patient 
-  * Remember that people have varying communication styles and preferences
-  * Recognize that not everyone is using their native language (meaning and tone can be lost in translation)
-* Be thoughtful
-  * Think about how others will interpret your words – productive, clear communication requires effort!
-  * Remember that sometimes it is best to refrain entirely from commenting
-* Be respectful and inclusive
-  * Respect differences of opinion
-  * Seek to build bridges and understand, not condemn, or criticize
-  * Make a conscious effort to include people who differ from you
-* Be open and curious
-  * Assume good intent and interpret others’ statements or questions in good faith
-  * Ask questions to understand, not denounce
-  * Focus on continuous learning - get better at the things you already know, tackle completely new things, and ask others about their expertise to deepen yours
+在每一次互动中，我们都渴望体现和拥护以下价值观：
 
-In summary:
+* 要热情友好
+  * 有目的的倾听，为他人的交流喜好创造空间。
+  * 问问自己怎样才能让别人的生活更轻松。
+* 要有耐心 
+  * 记住，每个人都有不同的沟通风格和喜好。
+  * 意识到并不是每个人都使用母语（意思和语气可能在翻译中丢失）。
+* 要深思熟虑
+  * 想想别人会如何理解你的话 — 高效、清晰的沟通需要努力。
+  * 记住，有时候最好完全避免发表评论。
+* 要尊重和包容
+  * 尊重不同意见。
+  * 寻求建立理解的桥梁，而不是谴责或批评。
+  * 有意识地把和您不同的人包括进来。
+* 保持开放和好奇心
+  * 具有良好的意图，并善意地解读他人的陈述或疑问。
+  * 提出问题是为了理解，而不是指责。
+  * 专注于持续学习 — 在您已经掌握的事情上做得更好，处理全新的事情，以及询问其他人的专业知识来加深你的学习。
 
-* Treat everyone with respect, kindness, and empathy.
-* Use welcoming and inclusive language.
-* Be thoughtful in how you communicate in person and online. 
-* Don’t be destructive or inflammatory. 
-* Gracefully accept constructive criticism.
-* Listen with purpose, create space for others’ communication preferences; honor them by shifting yours to accommodate.
-* Reach out to the organizers if you need anything at all!
+简而言之：
 
-## Reporting and enforcement
+* 尊重、友善、有同理心地对待每一个人。
+* 使用热情和包容的语言。
+* 线下线上的交流都要深思熟虑。
+* 不要具有破坏性和煽动性。
+* 优雅地接受建设性批评。
+* 有目的的倾听，为他人的交流喜好创造空间。为了尊重他人，需要您改变自己的习惯。
+* 如果有任何需要，联系组织者。
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement:
-- Name [pronouns], [ways to contact]
+## 报告和执行
 
-All complaints will be reviewed and investigated promptly and fairly.
+如有虐待、骚扰或其他不可接受的行为，可向负责执行的社区领导报告:
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+- 姓名 [代称]， [联系方式]
+
+所有投诉均会得到迅速和公正的调查。
+
+所有社区领袖都有义务尊重任何事件报告者的隐私和安全。
