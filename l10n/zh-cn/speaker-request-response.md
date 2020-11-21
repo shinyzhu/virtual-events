@@ -1,46 +1,50 @@
-# Speaker Request Response 
+# 讲师邀请和回应 
 
-## Objective 
-We receive requests to speak, sponsor, and partner on events and experiences every single day. With the current shift to primarily virtual experiences, the number of requests has increased and the timeframe between the request and the event has decreased. This tight timeline often makes it more difficult for speakers and partners to ensure that our standards for engaging are met, specifically around diversity and inclusion.  
+## 目的 
+我们每天都收到关于活动的演讲、赞助商和合作伙伴的邀请。随着当前主要转向在线活动，邀请的数量增加了，邀请和活动之间的时间间隔却缩短了。这种紧张的时间安排往往使得讲师和合作伙伴更难确保我们的参与标准得到满足，特别是在多元化和包容性方面。
 
-To enable each speaker to ensure these standards are maintained, below is a drafted email that can be sent in response to these sorts of requests without yet identifying your decision on whether to participate. 
+为了使每位讲师都能确保这些标准得到维护，以下是一份草拟的电子邮件，您可以在不确定是否参加的情况下，对这类邀请作出回应。
 
-## Process 
-First impressions and representation matter! Though what’s visible from a speaker lineup page is of course not the entire story, it does serve as a first impression for both potential speakers and attendees. We are striving to cultivate a sense of belonging. We ask that in addition to the explicit guidance below, you use your best judgment with the following considerations. 
+## 流程 
+第一印象和表现很重要。虽然从讲师名单页面上看到的并不是整个故事，但它确实给潜在的讲师和与会者都留下了第一印象。我们正在努力培养一种归属感。除了以下明确的指导外，我们要求您对以下事项作出您的最佳判断。
 
-* Considerations:  
-  * Have the organizers given enough time for you to review and to implement meaningful changes if needed? 
-  * Do you have available emotional labor and time to partner with the organizers if they request your assistance? 
-  * Please be cognizant that cultural norms differ by region, and that representation can look different in different parts of the world.   
-* Before accepting the invitation, email the organizer with below response if you are not 100% confident in their commitment towards a fully inclusive event 
-  * Personalize the highlighted portions at the very minimum 
-* Provide inclusive virtual event resources located on [Virtual Events Github Repo](https://github.com/microsoft/virtual-events) if needed 
-* Review and verify their commitment toward diversity and inclusion on website and outward engagement within the community (See Final Review section) 
-* Communicate the event’s commitment toward diversity and inclusion post event with applicable members of your internal team and various Code of Conduct/D&I team(s) to document for future awareness. 
-  * If Code of Conduct violations or exclusive incidents occur, reports should be directed to your designated team and thoroughly documented. This documentation can be used internally for decisions to partner again or actions required by the organizers before partnering again in the future. 
+* 注意事项：  
+  * 组织者是否有足够的时间让你检查并在必要时实施有意义的改变?
+  * 如果组织者请求您的帮助，您是否有可用的情感工作和时间与他们合作?
+  * 请注意，不同地区的文化规范是不同的，在世界不同地区的表现形式也会不同。
+* 在接受邀请之前，如果你对组织者对于完全包容性的承诺没有100%的信心，请发邮件给组织者并回复如下
+  * 尽可能将突出显示的部分个性化。
+* 如果需要，提供位于[在线活动 Github 资源库](https://github.com/microsoft/virtual-events)上的包容性在线活动资源。
+* 检查和核实他们在网站上的多元化和包容性声明，以及在社区内进行外部参与的承诺（见最后检查部分）。
+* 与相关内部团队成员和各种行为准则或D&I团队沟通活动对多元化和包容性的承诺，记录文档以备将来使用。
+  * 如果发生违反行为准则或特殊事件，应将报告提交给您指定的团队，并进行详细记录。此文档可在内部用于决定是否再次合作或将来再次合作之前组织者需要采取的行动。
 
-## Email Draft 
-Dear [Insert: Requestor Name], 
+## 电子邮件模板 
+尊敬的[*邀请方姓名*]： 
 
-Thank you for inviting me to [Insert: Requested Action (example: speak, participate, sponsor, partner)] at [Insert: Conference Name]. As I review my availability and your event objectives, please note that the [Insert: Your Speaker Team] requires the following elements to be in place prior to participating in any event. 
+感谢您邀请我参加[*会议名称*]的[*邀请的内容（例如：演讲、参与、赞助商、合作伙伴）*]。当我检查我的时间可用性和你们的活动目标时，请注意[*演讲团队*]在参加任何活动之前要求以下要素到位。
 
-Standard Event Expectations include:  
-1. An active, enforced, and public facing Code of Conduct. 
-2. An objective and inclusive Call for Proposals (CFP) process if applicable. 
-3. Broad demographic and platform representation across the speaker lineup and audience. 
+标准的活动预期包括：
 
-As members of the technology industry and community, we must partner to ensure that diversity and inclusion is the number one priority. **Please respond with your commitment towards achieving the above expectations and any relevant examples and/or links.** Here are [additional resources](https://github.com/microsoft/virtual-events/blob/main/inclusive-planning-process.md) that may be helpful. Please know that I or someone from my team is always available to share ideas that can help you to create an authentically inclusive and meaningful experience for your speakers and audience.  
+1. 一种积极的、强制的、面向公众的行为准则。
+2. 如果适用的话，一个客观和包容性的议题征集（CFP）流程。
+3. 广泛的人口统计和平台代表性的讲师阵容和观众。
 
-I look forward to learning more about your Diversity & Inclusion commitments and will follow up on next steps if my availability allows. 
+作为科技行业和社区的成员，我们必须合作以确保多元化和包容性是首要优先级事项。**请附上您对达到上述期望的承诺，以及任何相关的例子和（或）链接。**这里是可能会有所帮助的[额外资源](./inclusive-planning-process.md)。请知悉，我或我的团队中的其他人总是可以分享想法，可以帮助您为讲师和观众打造一个真正的包容性和有意义的活动。
 
-Thank you! 
+我期待了解更多关于你们多元化和包容性的承诺，如果我的时间允许，我将继续跟进接下来的步骤。
 
-[Insert: Your Name] 
+[*您的姓名*]
 
-## Final Review 
-After the email response has been sent, please take the time to confirm the following to your own personal satisfaction. If you feel the requestor is committed to the Standard Event Expectations [found here](https://github.com/microsoft/virtual-events/blob/main/playbook.md) and the below have been addressed; your participation reflects your confidence that the event will represent the commitments outlined within this document. 
-* Active and public-facing Code of Conduct, as well as reporting mechanisms and incident resolution practices. This is often displayed as a team and/or specific members of the organizing committee being referenced as the “owners” of Code of Conduct enforcement.  
-* The organizer responds to the email with key examples of how they have met the standard event requirements. 
-* Publicly share your involvement with members of your team to ensure any issues have had time to be addressed. 
-* After committing, speaking, and/or attending the event, document your feedback with your team to ensure that the requirements were truly met. Measure your future involvement based on their commitment towards diversity and inclusion specifically. 
-  * If Code of Conduct violations or exclusive incidents occur, reports should be directed to your designated team and thoroughly documented. This documentation can be used internally for decisions to partner again or actions required by the organizers before partnering again in the future. 
+此致。
+
+敬礼！
+
+## 最后检查 
+邮件回复后，请您花时间确认以下内容，以使您个人满意。如果您认为邀请方致力于标准的活动期望（[在这里找到](./playbook.md)），并且以下内容已被处理。您的参与则反映了对该活动将代表本文件所概述的承诺的信心。
+
+* 积极和面向公众的行为准则，以及报告机制和事件解决措施。这通常表现为一个团队和（或）被指定为执行行为准则的“所有者”的组织委员会的特定成员。
+* 组织者在回复邮件时给出了他们如何满足标准活动要求的关键例子。
+* 与您的团队成员公开分享您的参与，以确保任何问题都有时间解决。
+* 在提交、演讲和（或）参加活动之后，将您与团队的反馈记录下来，以确保需求真正得到满足。根据他们对多元化和包容性的承诺来衡量您未来的参与程度。
+  * 如果发生违反行为准则或特殊事件，应将报告提交给您指定的团队，并进行详细记录。此文档可在内部用于决定是否再次合作或将来再次合作之前组织者需要采取的行动。
