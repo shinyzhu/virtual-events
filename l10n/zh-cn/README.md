@@ -12,13 +12,13 @@ COVID-19的确给我们的日常生活、社交、教育和沟通带来了巨大
 
 ## 包含内容
 
-* [virtual-event-code-of-conduct.md](./virtual-event-code-of-conduct.md)
+* [在线活动行为准则](./virtual-event-code-of-conduct.md)
   * 行为准则规定了基本的行为标准，使具有不同社会价值观和文化的人能够有效地、高效地、相互尊重地交流。这在线下和线上活动中都是必要的。本资源库里的行为准则可以用于在线活动以保护和告知观众组织者要求的行为标准。
-* [playbook.md](./playbook.md)
+* [在线活动攻略](./playbook.md)
   * 作为科技行业里最具影响力的活动和社区体验的组织者和贡献者，我们需要共同协作来应对COVID-19导致的向虚拟和在线的转变。该攻略提供不同类型的数字化体验、数字化活动的关键元素、在线活动的标准和需求，以及额外的资源和最佳实践。
-* [inclusive-planning-process.md](./inclusive-planning-process.md)
+* [如何打造一个包容性的在线活动策划流程](./inclusive-planning-process.md)
   * 举办包容性的活动需要有意地将包容性贯穿于整个活动过程，特别是最初阶段。利用该指南来确保你拥有一个多元化的计划委员会，邀请不同的讲师和参与者，并不断寻找发展和改进的方法。
-* [speaker-request-response.md](./speaker-request-response.md)
+* [讲师邀请和回应](./speaker-request-response.md)
   * 在线活动的组织速度越来越快，多样性和包容性受到的重视程度在降低。这里为每位讲师和邀请的参会者提供了工具，以确保保持多样性和包容性标准。利用电子邮件模板和建议的步骤来回应演讲、赞助和参与请求。
 
 ## 如何贡献
