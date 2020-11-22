@@ -3,7 +3,7 @@
 创建这个在线活动攻略是为了帮助个人规划面向开发者的在线活动，然而它可以被复制并用于任何类型的参与者。
 
 ## 转向在线活动
-作为有影响力的活动组织者和贡献者，我们必须共同协作来应对COVID-19导致的向在线体验的转变，以及实现全球规模化的愿望。在线活动可以通过可伸缩的内容、包容性和可访问性、流程和策略的一致性、品牌塑造和推广招募来增强。
+作为有影响力的活动组织者和贡献者，我们必须共同协作来应对COVID-19导致的向在线体验的转变，以及实现全球规模化的愿望。在线活动可以通过可伸缩的内容、包容性和可访问性、流程和策略的一致性、品牌塑造和招募推广来增强。
 
 **请注意，并非所有活动都是适用于所有人的。要素可能需要根据受众、内容和事件的期望结果进行轻微修改。本攻略代表了一套已经成功验证过的策略。**
 
@@ -19,17 +19,16 @@
 **聚会/社区建设**：在组织数字化在线活动时，“联系”是最重要的优先事项，以支持社交、建立关系，以及从每次活动中获得长期结果。这更多的是由观众和与会者引导，以促进自然协作和信任。
 
 ## 在线活动的标准要求 
-**Event Registration**: An inclusive, accessible, and informative registration process to communicate the desired audience, content, and event logistics is key in generating attendance and low attrition.  
+**活动注册**：一个包容的、可访问的和信息丰富的注册流程，用来沟通期望的受众、内容和活动后勤，这是产生出席率和降低损耗的关键。
 
-**活动注册**：一个包容的、可访问的和信息丰富的注册流程，以沟通所需的受众、内容和活动的后勤是产生出席率和降低损耗的关键。
+流行和广泛使用的例子包括：
 
-Popular and widely used examples include: 
-* [Meetup](https://www.meetup.com): Offer workshops, presentations, and networking events over Meetup. Meetup has a very large, active community of users that can be leveraged to grow demand for your event. 
-* [Eventbrite](https://www.eventbrite.com/l/online-event-resources/?mkwid=UtKYFHIu_dc&pcrid=79989571666430&pkw=eventbrite&pmt=be&plc&_bk=eventbrite&_bt=79989571666430&_bm=e&_bn=o&msclkid=ab20c0317bbb173229d69eeff0c24676&utm_source=bing&utm_medium=cpc&utm_campaign=Croud_US_SEM_EN_Brand%20Core_Exact&utm_term=eventbrite&utm_content=Core&gclid=CNiW_an08ukCFYNjfgodDK0O6A&gclsrc=ds): Social platform for hosting and registering for events. One of the most popular Meetup alternatives. Easy and quick steps to create an event, set up pricing and logistics, and then share on other social media platforms. Audiences can use Eventbrite’s search engine to find events, but the organizers need to be proactive in their demand generation strategy.
-* [LinkedIn Events](https://www.linkedin.com/help/linkedin/answer/98189/linkedin-events-overview?lang=en): LinkedIn members and page owners can use the LinkedIn Events feature to find and build communities, generate interest in various events, and create long-term relationships with community members. 
-* [SplashThat](https://splashthat.com/): Event marketing and registration site geared towards companies and organizations that want to measure, manage, and market their various event offerings on one platform. 
+* [Meetup](https://www.meetup.com)：Meetup提供工作坊、演示和社交活动。Meetup拥有一个非常大的活跃的用户社区，可以利用它来增加活动的需求。
+* [Eventbrite](https://www.eventbrite.com/l/online-event-resources/?mkwid=UtKYFHIu_dc&pcrid=79989571666430&pkw=eventbrite&pmt=be&plc&_bk=eventbrite&_bt=79989571666430&_bm=e&_bn=o&msclkid=ab20c0317bbb173229d69eeff0c24676&utm_source=bing&utm_medium=cpc&utm_campaign=Croud_US_SEM_EN_Brand%20Core_Exact&utm_term=eventbrite&utm_content=Core&gclid=CNiW_an08ukCFYNjfgodDK0O6A&gclsrc=ds)：活动发布和注册的社交平台，最受欢迎的Meetup替代选择之一。轻松快速地创建活动，设置价格和物流，然后在其他社交平台上分享。用户可以使用Eventbrite的搜索引擎来寻找活动，但组织者需要主动制定招募推广策略。
+* [领英活动](https://www.linkedin.com/help/linkedin/answer/98189/linkedin-events-overview?lang=zh-hans)：领英成员和页面所有者可以使用领英活动功能来寻找和建立社区，引起对各种活动的兴趣，并与社区成员建立长期关系。
+* [SplashThat](https://splashthat.com/)：活动营销和注册网站，面向希望在一个平台上衡量、管理和营销各种活动的公司和组织。
 
-**Demand Generation**: A successful demand generation strategy drives people to register and attend an event, where we deliver a phenomenal experience that motivates them to engage with us (or our content) afterwards. This positive end-to-end experience increases their propensity to attend future events and share with friends and colleagues. 
+**招募推广**：一个成功的招募推广策略会促使人们注册并参加一个活动，在这个活动中，我们会提供一种非凡的体验，激励他们在活动结束后与我们（或我们的内容）进行互动。这种端到端的积极体验增加了他们参加未来活动并与朋友和同事分享的倾向。
 
 * Pre-Event Execution: 
   * Quality registration system and way to announce the event 
